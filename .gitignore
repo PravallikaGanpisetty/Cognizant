@@ -1,0 +1,15 @@
+# Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.dll
+*.exe
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
